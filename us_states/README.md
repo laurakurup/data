@@ -8,9 +8,9 @@ The FIPS county code is a five-digit Federal Information Processing Standard (FI
 
 ## Fields in this dataset:
 
-+ **state**			    – name of U.S. State or Territory
++ **state**			    – name of U.S. State
 
-+ **state_abbr** 			  – postal abbreviation of the stat
++ **state_abbr** 			  – postal abbreviation
 
-+ **state_fips**		– FIPS code for state
++ **state_fips**		– FIPS code
 
